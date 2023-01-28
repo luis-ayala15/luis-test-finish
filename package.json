@@ -1,7 +1,7 @@
 {
-  "name": "template",
+  "name": "luis-test-finish",
   "version": "1.0.0",
-  "description": "",
+  "description": "luis-test-finish",
   "main": "index.js",
   "scripts": {
     "lint:fix": "eslint --cache --fix",
@@ -41,5 +41,12 @@
     "*.{js,css,md,yml}": [
       "npm run prettier:fix"
     ]
-  }
+  },
+  "repository": {
+    "url": "git+git@github.com:luis-ayala15/luis-test-finish.git"
+  },
+  "bugs": {
+    "url": "https://github.com/luis-ayala15/luis-test-finish/issues"
+  },
+  "homepage": "https://github.com/luis-ayala15/luis-test-finish#readme"
 }
